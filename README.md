@@ -1,5 +1,5 @@
 # sudoku solver
-A sudoku solver. For the moment only works with easy sudoku.
+A sudoku solver.
 
 ### How to run  
 Simply run the main.py file :
@@ -13,6 +13,6 @@ pip install pygame
 
 
 ### How to play
-You can play yourself, of let the game plays itself, just by changing the value of the variable "auto" at the top of the main.py file.  
-Press p to pause the game.  
-If you are playing, use the arrow keys to change direction.
+Left click to increase a value, right click to decrease.  
+Press enter for the solution. If there are no solutions, nothing will happen.  
+Press r to reset the grid.
